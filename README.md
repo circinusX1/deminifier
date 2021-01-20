@@ -10,6 +10,7 @@ Java Script and JQuery deminifier
 * ./deminiif ./js-minified.js > js-deminified.js
 
 
+Online demo : http://tools.webhop.net/index.php?art=./tools/software/deminif.php
 
 
 
