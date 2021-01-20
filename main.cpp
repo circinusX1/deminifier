@@ -36,7 +36,7 @@ int main(int argc, char *argv[])
     if (argc==1)return 0;
     FILE* pf = ::fopen(argv[1],"rb");
     char buff[8912];
-    std::string tabs={0};
+    std::string tabs;
     if(pf)
     {
         while(!feof(pf)){
